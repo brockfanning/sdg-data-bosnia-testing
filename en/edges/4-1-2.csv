@@ -1,4 +1,4 @@
 From,To
 Education level,Income or wealth quantile
-Education level,Sex
-Education level,Degree of urbanisation
+Income or wealth quantile,Sex
+Sex,Degree of urbanisation

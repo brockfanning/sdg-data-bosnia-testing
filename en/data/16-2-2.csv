@@ -7,16 +7,16 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2015,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Female,18 years old and over,0
 2014,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Male,18 years old and over,0
 2015,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Male,18 years old and over,0
-2010,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Female,,14
-2011,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Female,,4
-2012,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Female,,10
-2014,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Female,,3
-2015,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Female,,0
-2010,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Male,,3
-2011,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Male,,6
-2012,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Male,,3
-2014,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Male,,0
-2015,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Male,,0
+2010,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Female,All age ranges or no breakdown by age,14
+2011,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Female,All age ranges or no breakdown by age,4
+2012,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Female,All age ranges or no breakdown by age,10
+2014,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Female,All age ranges or no breakdown by age,3
+2015,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Female,All age ranges or no breakdown by age,0
+2010,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Male,All age ranges or no breakdown by age,3
+2011,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Male,All age ranges or no breakdown by age,6
+2012,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Male,All age ranges or no breakdown by age,3
+2014,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Male,All age ranges or no breakdown by age,0
+2015,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",Number,Male,All age ranges or no breakdown by age,0
 2005,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,under 18 years old,0
 2006,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,under 18 years old,0
 2007,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,under 18 years old,0
@@ -57,37 +57,37 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2012,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,18 years old and over,0
 2014,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,18 years old and over,1
 2015,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,18 years old and over,5
-2005,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,,,0
-2006,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,,,0
-2007,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,,,0
-2008,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,,,0
-2009,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,,,0
-2010,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,,,0
-2011,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,,,0
-2012,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,,,0
-2014,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,,,36
-2015,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,,,28
-2016,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,,,23
-2005,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,,0
-2006,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,,0
-2007,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,,0
-2008,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,,0
-2009,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,,0
-2010,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,,0
-2011,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,,0
-2012,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,,0
-2014,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,,22
-2015,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,,20
-2005,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,,0
-2006,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,,0
-2007,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,,0
-2008,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,,0
-2009,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,,0
-2010,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,,0
-2011,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,,0
-2012,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,,0
-2014,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,,14
-2015,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,,8
+2005,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,0
+2006,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,0
+2007,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,0
+2008,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,0
+2009,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,0
+2010,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,0
+2011,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,0
+2012,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,0
+2014,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,36
+2015,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,28
+2016,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,23
+2005,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,0
+2006,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,0
+2007,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,0
+2008,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,0
+2009,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,0
+2010,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,0
+2011,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,0
+2012,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,0
+2014,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,22
+2015,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,20
+2005,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2006,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2007,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2008,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2009,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2010,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2011,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2012,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2014,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,14
+2015,Detected victims of human trafficking for other purposes (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,8
 2005,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,under 18 years old,0
 2006,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,under 18 years old,0
 2007,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,under 18 years old,0
@@ -132,28 +132,28 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2014,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,18 years old and over,0
 2015,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,18 years old and over,0
 2016,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,18 years old and over,0
-2005,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,,0
-2006,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,,0
-2007,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,,0
-2008,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,,0
-2009,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,,0
-2010,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,,0
-2011,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,,0
-2012,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,,0
-2014,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,,0
-2015,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,,0
-2016,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,,0
-2005,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,,0
-2006,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,,0
-2007,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,,0
-2008,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,,0
-2009,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,,0
-2010,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,,0
-2011,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,,0
-2012,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,,0
-2014,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,,0
-2015,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,,0
-2016,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,,0
+2005,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,0
+2006,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,0
+2007,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,0
+2008,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,0
+2009,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,0
+2010,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,0
+2011,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,0
+2012,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,0
+2014,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,0
+2015,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,0
+2016,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,0
+2005,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2006,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2007,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2008,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2009,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2010,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2011,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2012,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2014,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2015,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2016,Detected victims of human trafficking for removal of organ (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
 2014,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Female,under 18 years old,6
 2014,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Male,under 18 years old,0
 2015,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Male,under 18 years old,0
@@ -164,26 +164,26 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2014,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Male,18 years old and over,0
 2015,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Male,18 years old and over,0
 2016,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Male,18 years old and over,0
-2010,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Female,,7
-2011,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Female,,17
-2012,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Female,,20
-2014,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Female,,10
-2015,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Female,,6
-2016,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Female,,7
-2010,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Male,,1
-2011,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Male,,1
-2012,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Male,,0
-2014,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Male,,0
-2015,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Male,,0
-2016,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Male,,0
-2005,Detected victims of human trafficking (number) [16.2.2],Number,,,66
-2006,Detected victims of human trafficking (number) [16.2.2],Number,,,71
-2007,Detected victims of human trafficking (number) [16.2.2],Number,,,41
-2008,Detected victims of human trafficking (number) [16.2.2],Number,,,33
-2009,Detected victims of human trafficking (number) [16.2.2],Number,,,69
-2010,Detected victims of human trafficking (number) [16.2.2],Number,,,25
-2011,Detected victims of human trafficking (number) [16.2.2],Number,,,35
-2012,Detected victims of human trafficking (number) [16.2.2],Number,,,39
-2014,Detected victims of human trafficking (number) [16.2.2],Number,,,49
-2015,Detected victims of human trafficking (number) [16.2.2],Number,,,35
-2016,Detected victims of human trafficking (number) [16.2.2],Number,,,48
+2010,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,7
+2011,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,17
+2012,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,20
+2014,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,10
+2015,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,6
+2016,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Female,All age ranges or no breakdown by age,7
+2010,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,1
+2011,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,1
+2012,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2014,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2015,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2016,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],Number,Male,All age ranges or no breakdown by age,0
+2005,Detected victims of human trafficking (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,66
+2006,Detected victims of human trafficking (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,71
+2007,Detected victims of human trafficking (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,41
+2008,Detected victims of human trafficking (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,33
+2009,Detected victims of human trafficking (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,69
+2010,Detected victims of human trafficking (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,25
+2011,Detected victims of human trafficking (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,35
+2012,Detected victims of human trafficking (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,39
+2014,Detected victims of human trafficking (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,49
+2015,Detected victims of human trafficking (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,35
+2016,Detected victims of human trafficking (number) [16.2.2],Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,48

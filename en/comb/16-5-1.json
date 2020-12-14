@@ -1,1 +1,1 @@
-{"data":{"Year":[2010,2010,2010],"SERIES":["Prevalence rate of bribery [16.5.1]","Prevalence rate of bribery [16.5.1]","Prevalence rate of bribery [16.5.1]"],"UNIT_MEASURE":["Percent","Percent","Percent"],"Sex":[null,"Female","Male"],"Value":[20.7,18.2,23.2]},"edges":[]}
+{"data":{"Year":[2010,2010,2010],"SERIES":["Prevalence rate of bribery [16.5.1]","Prevalence rate of bribery [16.5.1]","Prevalence rate of bribery [16.5.1]"],"UNIT_MEASURE":["Percent","Percent","Percent"],"Sex":["Both sexes or no breakdown by sex","Female","Male"],"Value":[20.7,18.2,23.2]},"edges":[]}
