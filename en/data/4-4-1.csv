@@ -1,7 +1,43 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Sex,Composite breakdown,Value
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,,ARSP,9.166139999999999
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,,ARSP,7.52968
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,,Skill: ICT Skill: Copying or moving a file or folder,59.634319999999995
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,,Skill: ICT Skill: Copying or moving a file or folder,44.59803
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,,COPA,28.14609
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,,COPA,22.46445
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,,EMAIL,30.09595
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,,EPRS,12.45847
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,,EPRS,11.0905
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,,PCPR,2.08691
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,,PCPR,2.13639
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,,"Skill: ICT Skill: Finding, downloading, installing and configuring software",22.29269
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,,Skill: ICT Skill: Transferring files between a computer and other devices,59.741719999999994
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,,Skill: ICT Skill: Transferring files between a computer and other devices,49.02722
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Female,ARSP,9.29936
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Female,ARSP,6.281569999999999
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Female,Skill: ICT Skill: Copying or moving a file or folder,57.951280000000004
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Female,Skill: ICT Skill: Copying or moving a file or folder,43.36247
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Female,COPA,25.87817
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Female,COPA,19.288829999999997
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Female,EMAIL,26.12795
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Female,EPRS,10.67309
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Female,EPRS,9.24555
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Female,PCPR,1.0229
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Female,PCPR,0.9875200000000001
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Female,"Skill: ICT Skill: Finding, downloading, installing and configuring software",19.900679999999998
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Female,Skill: ICT Skill: Transferring files between a computer and other devices,56.43204
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Female,Skill: ICT Skill: Transferring files between a computer and other devices,46.93722
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Male,ARSP,9.01728
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Male,ARSP,8.9678
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Male,Skill: ICT Skill: Copying or moving a file or folder,61.514880000000005
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Male,Skill: ICT Skill: Copying or moving a file or folder,46.02169
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Male,COPA,30.68018
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Male,COPA,26.12354
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Male,EMAIL,34.66806
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Male,EPRS,14.453370000000001
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Male,EPRS,13.216339999999999
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Male,PCPR,3.27579
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Male,PCPR,3.4601699999999997
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Male,"Skill: ICT Skill: Finding, downloading, installing and configuring software",24.96542
+2017,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Male,Skill: ICT Skill: Transferring files between a computer and other devices,63.43982
+2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],Percent,Male,Skill: ICT Skill: Transferring files between a computer and other devices,51.43541

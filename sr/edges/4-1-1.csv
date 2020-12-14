@@ -1,3 +1,3 @@
 From,To
-Ниво образовања,Пол
-Пол,Врста вјештине
+EDUCATION_LEV,COMPOSITE_BREAKDOWN
+COMPOSITE_BREAKDOWN,SEX

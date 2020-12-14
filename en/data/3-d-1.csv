@@ -1,7 +1,105 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Composite breakdown,Value
+2010,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,"IHR Capacity: National legislation, policy and financing",75
+2011,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,"IHR Capacity: National legislation, policy and financing",75
+2014,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,"IHR Capacity: National legislation, policy and financing",75
+2015,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,"IHR Capacity: National legislation, policy and financing",100
+2016,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,"IHR Capacity: National legislation, policy and financing",100
+2017,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,"IHR Capacity: National legislation, policy and financing",100
+2010,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Coordination and National Focal Point communications,40
+2011,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Coordination and National Focal Point communications,73
+2014,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Coordination and National Focal Point communications,73
+2015,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Coordination and National Focal Point communications,30
+2016,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Coordination and National Focal Point communications,30
+2017,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Coordination and National Focal Point communications,30
+2010,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Surveillance,48
+2011,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Surveillance,85
+2014,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Surveillance,65
+2015,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Surveillance,80
+2016,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Surveillance,75
+2017,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Surveillance,75
+2010,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Response,32
+2011,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Response,57
+2014,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Response,53
+2015,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Response,59
+2016,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Response,72
+2017,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Response,72
+2010,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Preparedness,33
+2011,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Preparedness,30
+2014,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Preparedness,25
+2015,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Preparedness,45
+2016,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Preparedness,55
+2017,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Preparedness,63
+2010,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Risk communication,20
+2011,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Risk communication,57
+2014,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Risk communication,86
+2015,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Risk communication,57
+2016,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Risk communication,71
+2017,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Risk communication,71
+2010,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Human resources,0
+2011,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Human resources,0
+2014,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Human resources,20
+2015,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Human resources,20
+2016,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Human resources,20
+2017,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Human resources,20
+2010,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Laboratory,43
+2011,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Laboratory,40
+2014,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Laboratory,59
+2015,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Laboratory,49
+2016,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Laboratory,62
+2017,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Laboratory,62
+2010,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Points of entry,26
+2011,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Points of entry,0
+2014,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Points of entry,0
+2015,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Points of entry,0
+2016,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Points of entry,0
+2017,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Points of entry,0
+2010,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Zoonotic events,76
+2011,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Zoonotic events,56
+2014,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Zoonotic events,78
+2015,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Zoonotic events,67
+2016,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Zoonotic events,44
+2017,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Zoonotic events,44
+2010,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Food safety,100
+2011,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Food safety,75
+2014,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Food safety,100
+2015,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Food safety,100
+2016,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Food safety,100
+2017,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Food safety,93
+2010,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Chemical events,7
+2011,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Chemical events,8
+2014,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Chemical events,38
+2015,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Chemical events,38
+2016,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Chemical events,46
+2017,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Chemical events,54
+2010,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Radionuclear emergencies,0
+2011,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Radionuclear emergencies,25
+2014,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Radionuclear emergencies,54
+2015,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Radionuclear emergencies,69
+2016,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Radionuclear emergencies,62
+2017,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,IHR Capacity: Radionuclear emergencies,69
+2018,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Legislation and Financing,60
+2019,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Legislation and Financing,60
+2018,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: IHR Coordination and National IHR Focal Point Functions ,30
+2019,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: IHR Coordination and National IHR Focal Point Functions ,40
+2018,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Zoonotic events and the human–animal interface ,20
+2019,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Zoonotic events and the human–animal interface ,20
+2018,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Food safety ,80
+2019,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Food safety ,80
+2018,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Laboratory ,33
+2019,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Laboratory ,47
+2018,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Surveillance ,20
+2019,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Surveillance ,30
+2018,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Human resources ,20
+2019,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Human resources ,20
+2018,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: National Health Emergency Framework ,27
+2019,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: National Health Emergency Framework ,27
+2018,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Health Service Provision ,33
+2019,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Health Service Provision ,33
+2018,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Risk Communication ,20
+2019,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Risk Communication ,20
+2018,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Points of entry ,0
+2019,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Points of entry ,0
+2018,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Chemical events ,20
+2019,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Chemical events ,40
+2018,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Radiation emergencies ,60
+2019,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",Percent,State Party Annual Report: Radiation emergencies ,40

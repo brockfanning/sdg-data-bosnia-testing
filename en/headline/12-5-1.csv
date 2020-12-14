@@ -1,3 +1,14 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,UNIT_MEASURE,SERIES
+2014,1108.73,Metric Tons,"Electronic waste recycling (Tonnes) [12.4.2,12.5.1]"
+2015,1157.02,Metric Tons,"Electronic waste recycling (Tonnes) [12.4.2,12.5.1]"
+2016,1197.58,Metric Tons,"Electronic waste recycling (Tonnes) [12.4.2,12.5.1]"
+2017,1237.93,Metric Tons,"Electronic waste recycling (Tonnes) [12.4.2,12.5.1]"
+2018,1271.2,Metric Tons,"Electronic waste recycling (Tonnes) [12.4.2,12.5.1]"
+2019,1310.05,Metric Tons,"Electronic waste recycling (Tonnes) [12.4.2,12.5.1]"
+2014,0.318407021497909,Kilograms,"Electronic waste recycling, per capita (Kg) [12.4.2,12.5.1]"
+2015,0.337387641782932,Kilograms,"Electronic waste recycling, per capita (Kg) [12.4.2,12.5.1]"
+2016,0.353658566094836,Kilograms,"Electronic waste recycling, per capita (Kg) [12.4.2,12.5.1]"
+2017,0.36936262469663106,Kilograms,"Electronic waste recycling, per capita (Kg) [12.4.2,12.5.1]"
+2018,0.382439398976331,Kilograms,"Electronic waste recycling, per capita (Kg) [12.4.2,12.5.1]"
+2019,0.39686557974285297,Kilograms,"Electronic waste recycling, per capita (Kg) [12.4.2,12.5.1]"
+2014,4.799937,Percent,"Electronic waste recycling, rate (%) [12.4.2,12.5.1]"

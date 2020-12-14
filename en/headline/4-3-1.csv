@@ -1,3 +1,10 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,UNIT_MEASURE,SERIES
+2006,2.1777810169107,Percent,Participation rate in formal and non-formal education and training [4.3.1]
+2007,2.15766816184931,Percent,Participation rate in formal and non-formal education and training [4.3.1]
+2008,2.13075550414031,Percent,Participation rate in formal and non-formal education and training [4.3.1]
+2009,1.90901995619569,Percent,Participation rate in formal and non-formal education and training [4.3.1]
+2010,2.11272856926009,Percent,Participation rate in formal and non-formal education and training [4.3.1]
+2011,2.18183738605587,Percent,Participation rate in formal and non-formal education and training [4.3.1]
+2012,2.23761247360216,Percent,Participation rate in formal and non-formal education and training [4.3.1]
+2014,1.74418466019195,Percent,Participation rate in formal and non-formal education and training [4.3.1]
+2016,8.7,Percent,Participation rate in formal and non-formal education and training [4.3.1]

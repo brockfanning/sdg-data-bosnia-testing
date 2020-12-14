@@ -1,7 +1,16 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Sex,Age,Composite breakdown,Value
+2020,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral [16.7.1]",Number,Not available,Not available,Parliamentary committee: Defence,0.0
+2020,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral [16.7.1]",Number,Not available,Not available,Parliamentary committee: Human Rights,0.0
+2020,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral [16.7.1]",Number,Male,46 years old and over,Parliamentary committee: Finance,1.0
+2020,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral [16.7.1]",Number,Male,46 years old and over,Parliamentary committee: Foreign Affairs,1.0
+2020,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral [16.7.1]",Number,Male,46 years old and over,Parliamentary committee: Gender Equality,1.0
+2020,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber [16.7.1]",Number,Unknown,Unknown,Parliamentary committee: Defence,1.0
+2020,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber [16.7.1]",Number,Unknown,Unknown,Parliamentary committee: Finance,1.0
+2020,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber [16.7.1]",Number,Unknown,Unknown,Parliamentary committee: Foreign Affairs,1.0
+2020,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber [16.7.1]",Number,Unknown,Unknown,Parliamentary committee: Gender Equality,1.0
+2020,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber [16.7.1]",Number,Unknown,Unknown,Parliamentary committee: Human Rights,1.0
+2020,"Number of speakers in parliament, by age and sex , Lower Chamber or Unicameral [16.7.1]",Number,Female,46 years old and over,,1.0
+2020,"Number of speakers in parliament, by age and sex , Lower Chamber or Unicameral [16.7.1]",Number,Male,46 years old and over,,2.0
+2020,"Number of speakers in parliament, by age and sex, Upper Chamber [16.7.1]",Number,Male,46 years old and over,,3.0
+2020,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral [16.7.1]",Ratio,,,,0.41605632000319737
+2020,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]",Ratio,,,,0.38829334577993213

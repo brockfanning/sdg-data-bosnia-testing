@@ -1,3 +1,11 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,UNIT_MEASURE,SERIES
+2000,404.0,Number,Number of deaths attributed to suicide [3.4.2]
+2005,350.0,Number,Number of deaths attributed to suicide [3.4.2]
+2010,298.0,Number,Number of deaths attributed to suicide [3.4.2]
+2015,315.0,Number,Number of deaths attributed to suicide [3.4.2]
+2016,308.0,Number,Number of deaths attributed to suicide [3.4.2]
+2000,10.7,"Per 100,000 population",Suicide mortality rate [3.4.2]
+2005,9.3,"Per 100,000 population",Suicide mortality rate [3.4.2]
+2010,8.0,"Per 100,000 population",Suicide mortality rate [3.4.2]
+2015,8.9,"Per 100,000 population",Suicide mortality rate [3.4.2]
+2016,8.8,"Per 100,000 population",Suicide mortality rate [3.4.2]
