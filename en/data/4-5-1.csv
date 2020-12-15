@@ -1,4 +1,4 @@
-Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,Composite breakdown,Degree of urbanisation,Value
+Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,COMPOSITE_BREAKDOWN,Degree of urbanisation,Value
 2000,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",Ratio,Lower secondary education,Total (national average) or no breakdown,,,Total,1.0016399999999999
 2006,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",Ratio,Lower secondary education,Total (national average) or no breakdown,,,Total,0.9991899999999999
 2012,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",Ratio,Lower secondary education,Total (national average) or no breakdown,,,Total,1.0015100000000001
