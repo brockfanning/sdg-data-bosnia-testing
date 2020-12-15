@@ -1,41 +1,41 @@
 Year,Value,UNIT_MEASURE,SERIES
-2000,0.0,Percent,ER_PTD_FRWRT
-2001,0.0,Percent,ER_PTD_FRWRT
-2002,0.0,Percent,ER_PTD_FRWRT
-2003,0.0,Percent,ER_PTD_FRWRT
-2004,0.0,Percent,ER_PTD_FRWRT
-2005,0.0,Percent,ER_PTD_FRWRT
-2006,0.0,Percent,ER_PTD_FRWRT
-2007,33.33333,Percent,ER_PTD_FRWRT
-2008,66.66666,Percent,ER_PTD_FRWRT
-2009,66.66666,Percent,ER_PTD_FRWRT
-2010,66.66666,Percent,ER_PTD_FRWRT
-2011,66.66666,Percent,ER_PTD_FRWRT
-2012,66.66666,Percent,ER_PTD_FRWRT
-2013,66.66666,Percent,ER_PTD_FRWRT
-2014,66.66666,Percent,ER_PTD_FRWRT
-2015,66.66666,Percent,ER_PTD_FRWRT
-2016,66.66666,Percent,ER_PTD_FRWRT
-2017,66.66666,Percent,ER_PTD_FRWRT
-2018,66.66666,Percent,ER_PTD_FRWRT
-2019,66.66666,Percent,ER_PTD_FRWRT
-2000,0.0,Percent,ER_PTD_TERRS
-2001,0.0,Percent,ER_PTD_TERRS
-2002,0.0,Percent,ER_PTD_TERRS
-2003,0.0,Percent,ER_PTD_TERRS
-2004,0.0,Percent,ER_PTD_TERRS
-2005,0.0,Percent,ER_PTD_TERRS
-2006,0.0,Percent,ER_PTD_TERRS
-2007,9.090910000000001,Percent,ER_PTD_TERRS
-2008,18.181820000000002,Percent,ER_PTD_TERRS
-2009,18.181820000000002,Percent,ER_PTD_TERRS
-2010,18.181820000000002,Percent,ER_PTD_TERRS
-2011,18.181820000000002,Percent,ER_PTD_TERRS
-2012,18.181820000000002,Percent,ER_PTD_TERRS
-2013,18.181820000000002,Percent,ER_PTD_TERRS
-2014,18.181820000000002,Percent,ER_PTD_TERRS
-2015,18.181820000000002,Percent,ER_PTD_TERRS
-2016,18.181820000000002,Percent,ER_PTD_TERRS
-2017,18.181820000000002,Percent,ER_PTD_TERRS
-2018,18.181820000000002,Percent,ER_PTD_TERRS
-2019,18.181820000000002,Percent,ER_PTD_TERRS
+2000,0.0,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2001,0.0,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2002,0.0,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2003,0.0,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2004,0.0,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2005,0.0,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2006,0.0,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2007,33.33333,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2008,66.66666,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2009,66.66666,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2010,66.66666,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2011,66.66666,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2012,66.66666,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2013,66.66666,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2014,66.66666,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2015,66.66666,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2016,66.66666,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2017,66.66666,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2018,66.66666,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2019,66.66666,Percent,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+2000,0.0,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+2001,0.0,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+2002,0.0,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+2003,0.0,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+2004,0.0,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+2005,0.0,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+2006,0.0,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+2007,9.090910000000001,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+2008,18.181820000000002,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+2009,18.181820000000002,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+2010,18.181820000000002,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+2011,18.181820000000002,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+2012,18.181820000000002,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+2013,18.181820000000002,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+2014,18.181820000000002,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+2015,18.181820000000002,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+2016,18.181820000000002,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+2017,18.181820000000002,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+2018,18.181820000000002,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+2019,18.181820000000002,Percent,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas

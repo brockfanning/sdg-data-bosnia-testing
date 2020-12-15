@@ -1,6 +1,6 @@
 Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
-2018,Freight volume (tonne kilometres) [9.1.2],Tonne kilometres,Mode of transport: Inland waterway transport,0
-2018,Freight volume (tonne kilometres) [9.1.2],Tonne kilometres,Mode of Transport: Rail,1187941000
-2018,Freight volume (tonne kilometres) [9.1.2],Tonne kilometres,Mode of Transport: Road,4303121000
-2018,Passenger volume (passenger kilometres) [9.1.2],Passenger kilometres,Mode of Transport: Rail,40000000
-2018,Passenger volume (passenger kilometres) [9.1.2],Passenger kilometres,Mode of Transport: Road,1661000000
+2018,Freight volume (tonne kilometres),Tonne kilometres,Inland waterway transport,0
+2018,Freight volume (tonne kilometres),Tonne kilometres,Rail,1187941000
+2018,Freight volume (tonne kilometres),Tonne kilometres,Road,4303121000
+2018,Passenger volume (passenger kilometres),Passenger kilometres,Rail,40000000
+2018,Passenger volume (passenger kilometres),Passenger kilometres,Road,1661000000
