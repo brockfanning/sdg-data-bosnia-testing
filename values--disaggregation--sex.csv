@@ -1,6 +1,6 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,_T,_T,_T,_T,94,24
-_U,_U,_U,_U,_U,5,1
-_X,_X,_X,_X,_X,2,1
-F,F,F,F,F,113,29
-M,M,M,M,M,108,24
+_T,Both sexes or no breakdown by sex,_T,_T,_T,94,24
+_U,Unknown,_U,_U,_U,5,1
+_X,Not available,_X,_X,_X,2,1
+F,Female,F,F,F,113,29
+M,Male,M,M,M,108,24
