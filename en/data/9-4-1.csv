@@ -1,22 +1,22 @@
 Year,SERIES,UNIT_MEASURE,Value
-2000,Carbon dioxide emissions from fuel combustion,Metric Tons,13.718
-2001,Carbon dioxide emissions from fuel combustion,Metric Tons,13.501
-2002,Carbon dioxide emissions from fuel combustion,Metric Tons,14.219000000000001
-2003,Carbon dioxide emissions from fuel combustion,Metric Tons,14.546
-2004,Carbon dioxide emissions from fuel combustion,Metric Tons,15.187000000000001
-2005,Carbon dioxide emissions from fuel combustion,Metric Tons,15.857999999999999
-2006,Carbon dioxide emissions from fuel combustion,Metric Tons,17.462
-2007,Carbon dioxide emissions from fuel combustion,Metric Tons,18.415
-2008,Carbon dioxide emissions from fuel combustion,Metric Tons,20.24
-2009,Carbon dioxide emissions from fuel combustion,Metric Tons,20.204
-2010,Carbon dioxide emissions from fuel combustion,Metric Tons,20.483
-2011,Carbon dioxide emissions from fuel combustion,Metric Tons,23.401
-2012,Carbon dioxide emissions from fuel combustion,Metric Tons,21.645
-2013,Carbon dioxide emissions from fuel combustion,Metric Tons,21.51
-2014,Carbon dioxide emissions from fuel combustion,Metric Tons,19.172
-2015,Carbon dioxide emissions from fuel combustion,Metric Tons,19.305999999999997
-2016,Carbon dioxide emissions from fuel combustion,Metric Tons,22.019000000000002
-2017,Carbon dioxide emissions from fuel combustion,Metric Tons,22.328000000000003
+2000,Carbon dioxide emissions from fuel combustion,TONNES_M,13.718
+2001,Carbon dioxide emissions from fuel combustion,TONNES_M,13.501
+2002,Carbon dioxide emissions from fuel combustion,TONNES_M,14.219000000000001
+2003,Carbon dioxide emissions from fuel combustion,TONNES_M,14.546
+2004,Carbon dioxide emissions from fuel combustion,TONNES_M,15.187000000000001
+2005,Carbon dioxide emissions from fuel combustion,TONNES_M,15.857999999999999
+2006,Carbon dioxide emissions from fuel combustion,TONNES_M,17.462
+2007,Carbon dioxide emissions from fuel combustion,TONNES_M,18.415
+2008,Carbon dioxide emissions from fuel combustion,TONNES_M,20.24
+2009,Carbon dioxide emissions from fuel combustion,TONNES_M,20.204
+2010,Carbon dioxide emissions from fuel combustion,TONNES_M,20.483
+2011,Carbon dioxide emissions from fuel combustion,TONNES_M,23.401
+2012,Carbon dioxide emissions from fuel combustion,TONNES_M,21.645
+2013,Carbon dioxide emissions from fuel combustion,TONNES_M,21.51
+2014,Carbon dioxide emissions from fuel combustion,TONNES_M,19.172
+2015,Carbon dioxide emissions from fuel combustion,TONNES_M,19.305999999999997
+2016,Carbon dioxide emissions from fuel combustion,TONNES_M,22.019000000000002
+2017,Carbon dioxide emissions from fuel combustion,TONNES_M,22.328000000000003
 2000,Carbon dioxide emissions per unit of GDP,Kilograms per constant USD,0.60146
 2001,Carbon dioxide emissions per unit of GDP,Kilograms per constant USD,0.56698
 2002,Carbon dioxide emissions per unit of GDP,Kilograms per constant USD,0.56707
